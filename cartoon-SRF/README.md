@@ -1,0 +1,1 @@
+We want to make several plots showing true signal (lag), true FFT (channel)
