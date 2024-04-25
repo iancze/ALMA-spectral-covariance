@@ -1,0 +1,7 @@
+*.ms
+*.ms.tgz
+*.log
+*.last 
+*.npz
+
+.ipynb_checkpoints
